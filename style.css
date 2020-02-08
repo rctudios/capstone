@@ -1,0 +1,147 @@
+/*CSS File For All Files For Capstone*/
+
+.topnav {
+  background-color: #437FC7;
+  overflow: hidden;
+  border: 10%;
+  margin:.5%;
+  border-top: 10%;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding:14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  background-color: #437FC7;
+}
+
+.topnav a:hover {
+  background-color: #6DAFFE;
+  color: white;
+}
+
+/*Basic setup stuff*/
+
+header{
+  background-color: #EDF6FF;
+  margin: 1%;
+  height: 100%;
+  padding: 1%;
+  border-radius: 0.5%;
+  font: Time New Romans;
+  border-left: 1%;
+  border-right: 1%;
+}
+
+body{
+	background-color: #B9732F;
+	color: white;
+	font: Times New Romans;
+	padding-top: 0.5%;
+	padding-left: 1%;
+	padding-right: 1%;
+	border-left: 1%;
+	border-bottom: 1%;
+	margin-bottom: 2.5%;
+}
+
+/*About Us stuff*/
+  /*div one*/
+
+#i{
+ text-align: center;
+ margin-top: 5%;
+ border: 25%;
+ padding: 1%;
+ background-color: #437FC7;
+ border-radius: 1.5%;
+}
+
+#i a{
+   text-decoration: none;
+   color: #ffffff;
+}
+
+.i{
+ text-shadow: black;
+}
+
+ /*div two*/
+#ii{
+ text-align: center;
+ margin-top: 5%;
+ border: 25%;
+ padding: 1%;
+ background-color: #437FC7;
+ border-radius: 1.5%;
+ text-decoration: none;
+}
+
+#ii a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.ii{
+}
+
+/*Classes*/
+
+#iii{
+    margin-top: 5%;
+    border: 25%;
+    padding: 1%;
+    padding-left: 0%;
+    padding-right: 0%;
+    background-color: #437FC7;
+    border-top: 5%;
+}
+
+  /*AP Classes */
+
+#iv{
+    padding-right: 1%;
+    padding-left: 1%;
+    padding-bottom: 0.5%;
+    padding-bottom: 0%;
+  	background-color: #6DAFFE;
+  	border: 0%;
+  }
+
+.iv a{
+	text-decoration: none;
+	color: white;
+} 
+
+/*CE Classes*/
+
+#v{
+	background-color: #437FC7; 
+}
+
+.v a{
+	text-decoration: none;
+	color: white;
+}
+
+/* Honor Classes*/
+
+#vi{
+	background-color: #6DAFFE; 
+	padding-top: 0%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	padding-bottom: 0%;
+}
+
+.vi a{
+	text-decoration: none;
+	color: white;
+}
+
+#vii{
+
+}
